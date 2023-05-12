@@ -1,7 +1,7 @@
 # POCO Launcher 4 MIUI Magisk Module  
 Patch for using POCO Launcher on MIUI devices  
 
-!!! Not tested yet. It is Proof of Concept. !!!
+!!! Not tested yet. It is Proof of Concept !!!
   
 !!! It is only for MIUI devices, not for POCO devices !!!  
   
